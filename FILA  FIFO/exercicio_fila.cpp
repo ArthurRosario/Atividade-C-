@@ -25,5 +25,5 @@ int main(){
     cout << "\nNOVO Ultimo da lista: "<< fila_produtos.back();
     cout << "\nNOVO Tamanho da lista: " << fila_produtos.size();
 
-    
+    cout <<"finalizado";
 }
